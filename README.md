@@ -1,6 +1,9 @@
 # SUMMER INTERNSHIP 2024-
 Welcome to my GitHub repository of my 4-week Summer Internship 2024, during 4th semester summer breaks. During this internship, I worked on a project titled "Auto Generated Certificate Using GUI" under my external guide of company MaMoTechnolabs LLP.
 
+#Technologies Used 
+Python,MySQL(Data Base)
+
 📅 Week -1(16/05/2024 to 22/05/2024)
 Weekly and Daily Project Details for One-Month Internship
 Week 1: Initial Setup and Basic Functionality
