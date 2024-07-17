@@ -148,3 +148,6 @@ Include key features, challenges faced, and solutions implemented.
 
 Present the project to Mentor.
 Demonstrate the functionalities and gather final feedback.
+
+ # Feel free to contact me:
+ 22it005@charusat.edu.in
