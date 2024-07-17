@@ -15,6 +15,7 @@ Set up development environment: Install Python, MySQL, and necessary libraries (
 
 Design database schema: Create tables for user information, certificate templates, and generated certificates.
 Set up the MySQL database and create initial tables.
+
  -> Day 18-05-2024: Basic GUI Design
 
 Start designing the GUI using tkinter.
