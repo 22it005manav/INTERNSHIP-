@@ -35,6 +35,7 @@ Set up admin privileges in the database.
 
  -> Day 22-05-2024: Testing and Debugging
 
+
  
 📅 Week -2 (23/05/2024 to 29/05/2024)
 Test user registration and login functionalities.
@@ -67,6 +68,7 @@ Allow users to view the status of their certificates (e.g., accepted, rejected, 
 
  -> Day 29-05-2024: Testing and Debugging
 
+
  
 📅 Week - 3 (30/05/2024 to 05/06/2024)
 Test the certificate generation and customization functionalities.
@@ -98,6 +100,7 @@ Implement additional security measures, such as data encryption and secure authe
 Ensure all user data is protected and stored securely.
 
  -> Day 5-06-2024: Testing and Debugging
+
 
  
 📅 Week - 4 (6/06/2024 to 16/06/2024)
