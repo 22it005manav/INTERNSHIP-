@@ -11,57 +11,57 @@ Week 1: Initial Setup and Basic Functionality
 
 Define project scope and objectives.
 Set up development environment: Install Python, MySQL, and necessary libraries (tkinter, mysql-connector-python, PIL).
-# -> Day 17-05-2024: Database Design
+ -> Day 17-05-2024: Database Design
 
 Design database schema: Create tables for user information, certificate templates, and generated certificates.
 Set up the MySQL database and create initial tables.
-# -> Day 18-05-2024: Basic GUI Design
+ -> Day 18-05-2024: Basic GUI Design
 
 Start designing the GUI using tkinter.
 Create a basic window with navigation options (home, register, login).
-# -> Day 19-05-2024: User Registration and Login
+ -> Day 19-05-2024: User Registration and Login
 
 Implement user registration form with fields for Email ID, Name Details, and Password.
 Validate user input and store data in the MySQL database.
-# -> Day 20-05-2024: User Authentication
+ -> Day 20-05-2024: User Authentication
 
 Implement login functionality with server-side validation.
 Add Google Login option using Firebase for authentication.
-# -> Day 21-05-2024: Admin Login
+ -> Day 21-05-2024: Admin Login
 
 Create a separate login component for administrators.
 Set up admin privileges in the database.
-# -> Day 22-05-2024: Testing and Debugging
+ -> Day 22-05-2024: Testing and Debugging
 
 📅 Week -2 (23/05/2024 to 29/05/2024)
 Test user registration and login functionalities.
 Debug any issues and ensure smooth user authentication.
 Week 2: Certificate Templates and User Interactions
-# -> Day 23-05-2024: Template Storage
+ -> Day 23-05-2024: Template Storage
 
 Create a table in the database for storing certificate templates.
 Design and store initial certificate templates.
-# -> Day 24-05-2024: Display Templates
+ -> Day 24-05-2024: Display Templates
 
 Fetch and display certificate templates in the GUI.
 Categorize templates based on type.
-# -> Day 25-05-2024: Customization Options
+ -> Day 25-05-2024: Customization Options
 
 Add options for users to customize certificates (e.g., font style, color).
 Implement form fields for inputting certificate details (name, date, course).
-# -> Day 26-05-2024: Generate Certificate
+ -> Day 26-05-2024: Generate Certificate
 
 Use the reportlab library to dynamically generate certificates based on user input.
 Ensure proper formatting and placement of text and images.
-# -> Day 27-05-2024: Save and Export
+ -> Day 27-05-2024: Save and Export
 
 Implement functionality to save generated certificates as PDF files.
 Add options for printing or emailing the certificate.
-# -> Day 28-05-2024: Profile Management
+ -> Day 28-05-2024: Profile Management
 
 Create a user profile page to display generated certificates.
 Allow users to view the status of their certificates (e.g., accepted, rejected, pending).
-# -> Day 29-05-2024: Testing and Debugging
+ -> Day 29-05-2024: Testing and Debugging
 
 📅 Week - 3 (30/05/2024 to 05/06/2024)
 Test the certificate generation and customization functionalities.
