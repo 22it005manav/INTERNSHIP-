@@ -8,12 +8,12 @@ Python,MySQL(Data Base)
 Weekly and Daily Project Details for One-Month Internship
 
 Week 1: Initial Setup and Basic Functionality
-✅ Day 16-05-2024: Project Planning and Setup
 
+✅ Day 16-05-2024: Project Planning and Setup
 Define project scope and objectives.
 Set up development environment: Install Python, MySQL, and necessary libraries (tkinter, mysql-connector-python, PIL).
+ 
  -> Day 17-05-2024: Database Design
-
 Design database schema: Create tables for user information, certificate templates, and generated certificates.
 Set up the MySQL database and create initial tables.
 
